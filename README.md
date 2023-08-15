@@ -1,4 +1,4 @@
-![image](https://github.com/antoine2801/Implementing-Web-Identity-Federation/assets/141557235/2eeaf585-b166-4866-a778-878ee69e205c)<h1>Implementing Web Identity Federation </h1>
+<h1>Implementing Web Identity Federation </h1>
 
 
 
